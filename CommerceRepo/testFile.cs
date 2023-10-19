@@ -8,7 +8,6 @@ namespace ms_ZabkaNano
 {
     public class TestFile
     {
-		// Added comment
-        // Test comment
+	    // Added comment
     }
 }
